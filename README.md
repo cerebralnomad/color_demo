@@ -1,5 +1,5 @@
 # color_demo
-GUI to browse the colors available to tkinter on Ubuntu
+GUI to browse the 558 colors available to tkinter on Ubuntu
 
 There's a ton of colors available to tkinter and I wanted an easy way to preview them.  
 Note that this works on Ubuntu flavors. I do not know if it will work properly on other 

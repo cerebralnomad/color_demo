@@ -26,5 +26,8 @@ to the color you selected.
 
 Choose another color or click 'Exit' to quit the program.
 
+The color names you decide on are used in the "background = <color>" parameters in tkinter.
+  
+
 
 
